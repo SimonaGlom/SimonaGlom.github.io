@@ -42,16 +42,10 @@ ul.posts li {
     list-style: none;
 } */
 
-.container {
-    max-width: 800px;
-}
-
 #navbarNav {
     justify-content: right;
 }
 
-.navbar {
-}
 .bg-night-sky {
     background-image: url('/images/night-sky.png');
 }
@@ -64,4 +58,17 @@ ul.posts li {
     max-width: 1000px;
     margin: 5% auto;
     background: rgb(255,255,255, .9);
+}
+
+.devtech-icon {
+    height: 150px;
+    width: 250px;
+}
+
+.paragraph-text-size {
+    font-size: 18px;
+}
+
+.mt-85 {
+    margin-top: 85px;
 }
