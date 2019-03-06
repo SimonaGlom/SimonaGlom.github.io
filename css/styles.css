@@ -60,9 +60,13 @@ ul.posts li {
     background: rgb(255,255,255, .9);
 }
 
+.devtech-icons-wrapper{
+    text-align: center;
+}
+
 .devtech-icon {
-    height: 150px;
-    width: 250px;
+    max-height: 150px;
+    max-width: 250px;
 }
 
 .paragraph-text-size {
@@ -71,4 +75,8 @@ ul.posts li {
 
 .mt-85 {
     margin-top: 85px;
+}
+
+.image-wrapper img{
+    width: 500px;
 }
