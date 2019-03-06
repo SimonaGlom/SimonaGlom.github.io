@@ -52,3 +52,16 @@ ul.posts li {
 
 .navbar {
 }
+.bg-night-sky {
+    background-image: url('/images/night-sky.png');
+}
+
+.text-cursive-font {
+    font-family: 'Roboto', sans-serif;
+}
+
+.jumbotron {
+    max-width: 1000px;
+    margin: 5% auto;
+    background: rgb(255,255,255, .9);
+}
