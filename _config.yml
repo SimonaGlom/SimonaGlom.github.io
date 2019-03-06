@@ -1,7 +1,10 @@
 name: Simona Glombíková, Webové publikovanie
 permalink: /blog/:year/:month/:day/:title
+permalink: /projects/:title
 title: SIMdev
 
 collections:
   devtechs:
+    output: true
+  projects:
     output: true

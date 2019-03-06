@@ -1,0 +1,22 @@
+---
+layout: default
+title: Projects
+permalink: /projects/
+---
+<section class="mb-3 mt-5">
+    <h2 class="display-3 mb-5">Moje projekty</h2>
+    <p class="font-weight-light lead">Táto podstránka obsahuje predstavenie mojich projektov. Zároveň bude obsahovať 
+        aj 3. a 4. zadanie z predmetu Webové publikovanie. </p>
+    <div class="row mt-5">
+        {% for project in site.projects %}
+            <div class="col-sm-4">
+                <a href="{{ project.url_path }}" class="card mb-4 ">
+                    <img src="{{project.image_path}}" class="card-img-top">
+                    <div class="project-overlay">
+                        <h3>{{project.title}}</h3>
+                    </div>
+                </a>
+            </div>
+        {% endfor %}
+    </div>
+</section>
