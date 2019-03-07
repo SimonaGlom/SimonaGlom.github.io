@@ -1,6 +1,34 @@
 ---
 layout: default
 ---
+<section class="mt-5 mb-5">
+    <h2 class="display-4">{{page.title}}</h2>
+    {% if page.carousel %}
+        <article class="regular slider">    
+            {% for image in page.carousel %}
+            <div>
+                <img src="{{ image }}">
+            </div>
+            {% endfor %}
+        </article>
+    {% endif %}
+    <hr>
+    <section class="mt-2">
+        <h3 class="font-size-24">Použité technológie</h3>
+        <p class="lead paragraph-text-size text-justify">{{ page.technologies }}</p>
+    </section>
+    <section class="mt-2">
+        <h3 class="font-size-24">Dátum vytvorenia</h3>
+        <p class="lead paragraph-text-size text-justify">{{ page.date | date_to_string }}</p>
+    </section>
+    <section class="mt-2">
+        <h3 class="font-size-24">Stav projektu</h3>
+        <p class="lead paragraph-text-size text-justify text-uppercase">{{ page.tag }}</p>
+    </section>
+    <hr>
+    <section>
+        <p class="lead paragraph-text-size text-justify">{{ content }}</p>
+    </section>
+</section>
 
-{{content}}
 
