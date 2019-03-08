@@ -4,12 +4,12 @@ layout: default
 <section class="mt-3 mb-5">
     <h2 class="display-4 text-center">{{page.title}}</h2>
     {% if page.carousel %}
-        <article class="regular slider mt-5 mb-4">    
-            {% for image in page.carousel %}
-            <div>
-                <img src="{{ image }}">
-            </div>
-            {% endfor %}
+        <article class="regular slider mt-5 mb-4">   
+                {% for image in page.carousel %}
+                <div>
+                    <img src="{{ image }}">
+                </div>
+                {% endfor %}
         </article>
     {% endif %}
     <hr>
