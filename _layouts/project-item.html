@@ -6,7 +6,7 @@ layout: default
     {% if page.carousel %}
         <article class="regular slider mt-5 mb-4">   
                 {% for image in page.carousel %}
-                <div>
+                <div class="image-slideshow-wrapper">
                     <img src="{{ image }}">
                 </div>
                 {% endfor %}

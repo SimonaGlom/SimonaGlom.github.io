@@ -28,12 +28,12 @@
 
 .devtech-icon {
     max-height: 150px;
-    max-width: 250px;
+    max-width: 100%;
 }
 
 .profile-photo {
     max-height: 550px;
-    max-width: 500px;
+    max-width: 100%;
 }
 
 .profile-poto-wrapper {
@@ -105,4 +105,8 @@
 .slick-next {
     right: 25px !important;
     z-index: 2;
+}
+
+.image-slideshow-wrapper img{
+    width:100%;
 }
