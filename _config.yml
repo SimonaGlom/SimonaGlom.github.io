@@ -7,6 +7,3 @@ collections:
     output: true
   projects:
     output: true
-slideshow:
-    width: 150
-    height: 100
