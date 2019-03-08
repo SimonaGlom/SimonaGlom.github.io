@@ -4,9 +4,9 @@ title: Weather
 url_path: weather
 image_path: /images/weather.png
 carousel: 
-    image: /images/weather.png
-    image: /images/weather.png
-technologies: "CSS&HTML"
+    - /images/weather1.png
+    - /images/weather2.png
+technologies: "CSS, HTML"
 date: 07/2017
 tag: solved
 ---

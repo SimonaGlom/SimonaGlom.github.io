@@ -4,8 +4,8 @@ title: UXTweak
 url_path: uxtweak
 image_path: /images/uxtweak.png
 carousel: 
-    image: /images/uxtweak.png
-    image: /images/uxtweak.png
+   - /images/uxtweak1.png
+   - /images/uxtweak2.png
 technologies: "Vue, CSS&HTML"
 date: 11/2018
 tag: opened
