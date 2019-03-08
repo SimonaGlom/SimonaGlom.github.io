@@ -11,7 +11,7 @@ date: 10/2018
 tag: "Vyriešený"
 ---
 
-SIMwear je e-shopový systém na oblečenie. Bol vytvorený na predmet Webové technológie, tvorí ho klientska časť a administrátorské rozhranie.<br>
+SIMwear je e-shopový systém na oblečenie. Bol vytvorený na predmet Webové technológie, tvorí ho klientska časť a administrátorské rozhranie.
 
 KLIENTSKA ČASŤ 
 
