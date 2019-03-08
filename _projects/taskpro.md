@@ -8,7 +8,7 @@ carousel:
     - /images/taskpro2.png
 technologies: "Java, JavaFX" 
 date: 05/2018
-tag: solved
+tag: "Vyriešený"
 ---
 
 Myšlienka vytvoriť TaskPRO zahorela oveľa skôr ako bol tento projekt vytvorený a realizovaný. Základno

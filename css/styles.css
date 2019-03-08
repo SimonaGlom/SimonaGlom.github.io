@@ -91,3 +91,19 @@
 .bg-white {
     background-color: #ffffff ;
 }
+
+.slick-prev::before, .slick-next::before {
+    color: #000000 !important;
+}
+
+.slick-prev {
+    left: 25px !important;
+    z-index: 2;
+   
+}
+
+.slick-next {
+    right: 25px !important;
+    z-index: 2;
+ 
+}

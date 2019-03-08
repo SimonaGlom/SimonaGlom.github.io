@@ -8,7 +8,7 @@ carousel:
     - /images/simwear2.png
 technologies: "Laravel, Vue, CSS&HTML"
 date: 10/2018
-tag: solved
+tag: "Vyriešený"
 ---
 
 SIMwear je e-shopový systém na oblečenie. Bol vytvorený na predmet Webové technológie, tvorí ho klientska časť a administrátorské rozhranie.<br>
