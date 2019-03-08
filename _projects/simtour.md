@@ -1,5 +1,5 @@
 ---
-layout: project-item
+layout: project
 title: SIMtour
 url_path: simtour 
 image_path: /images/simtour.png
@@ -8,7 +8,7 @@ carousel:
     - /images/simtour2.png
 technologies: "Vue, Quasar, Laravel"
 date: 07/2018
-tag: "Vyriešený"
+state: "Vyriešený"
 ---
 
 SIMtour je projekt, ktorý som urobila pre moje účely na zjednodušenie prehľadu dátumov, fotiek, miest z potuliek po svete a zároveň ho používam aj pri plánovaní na cestovanie. Slúži aj ako cestovateľský denníček na ukladanie, respektíve plánovanie výletov. Funkcionalitu ponúka na pridaie výletu,  editovanie či vymazanie výletu.

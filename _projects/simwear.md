@@ -1,5 +1,5 @@
 ---
-layout: project-item
+layout: project
 title: SIMwear
 url_path: simwear
 image_path: /images/simwear.png
@@ -8,7 +8,7 @@ carousel:
     - /images/simwear2.png
 technologies: "Laravel, Vue, CSS&HTML"
 date: 10/2018
-tag: "Vyriešený"
+state: "Vyriešený"
 ---
 
 SIMwear je e-shopový systém na oblečenie. Bol vytvorený na predmet Webové technológie, tvorí ho klientska časť a administrátorské rozhranie.
