@@ -1,13 +1,14 @@
 <!DOCTYPE html>
-	<html>
-		{% include head.html %}
-		<body>
-			<div class="container">
-				{% include nav.html %}
-				<div class="lead paragraph-text-size text-justify">
-					{{ content }}
-				</div>
-				{% include footer.html %}
+<html>
+	{% include head.html %}
+	<body>
+		<div class="container">
+			{% include nav.html %}
+			<div class="lead paragraph-text-size text-justify">
+				{{ content }}
 			</div>
-		</body>
-	</html>
+			{% include footer.html %}
+		</div>
+	{% include scripts.html %}
+	</body>
+</html>
