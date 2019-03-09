@@ -27,7 +27,6 @@ Podrobné požiadavky na vypracovanie a odovzdanie zadania (priemerná úroveň 
 **home.html** - toto rozloženie sa používa na úvodnej stránke, neobsahuje navigáciu ani pätičku   
 **about.html** - použiva sa na stránke Kto som?  
 **devtech-item.html** - používa sa na stránke Čo robím?, je to rozloženie jednej technólogie (logo, nadpis, komentár)  
-**project-items.html** - toto rozloženie je na stránke Moje projekty  
 **project.html** - šablóna na stránkach detailu projekov
 
 ### Premenné
@@ -61,11 +60,11 @@ Stránka obsahuje množtvo tagov a filtrov.
 
 [**Slick**](http://kenwheeler.github.io/slick/) - vytvorenie slideshow na stránke detailu projektu
 
-[**Collapse**](https://getbootstrap.com/docs/4.1/components/collapse/) - pri mobilnej verzii sa skryje navigácia, ktorá je dostupná pod hamburgerom
+[**Collapse**](https://getbootstrap.com/docs/4.1/components/collapse/) - pri mobilnej verzii sa skryje navigácia, plugin podporuje skrytie a ukázanie navigácie
 
 ## Záver
 
-SIMfólio obsahuje aj mobilnú verziu a  vŠetky obrázky prešli kompresiou  pomocou nástroja (https://tinypng.com/). Projekt je podporovaný prehliadačom Firefox.
+SIMfólio obsahuje aj mobilnú verziu a  všetky obrázky prešli kompresiou  pomocou nástroja (https://tinypng.com/). Projekt je podporovaný prehliadačom Firefox. Webové sídlo je vytvorené pomocou Boostrap 4.
 
 
 

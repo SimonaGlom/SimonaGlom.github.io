@@ -92,19 +92,19 @@
     background-color: #ffffff ;
 }
 
-.slick-prev::before, .slick-next::before {
-    color: #000000 !important;
+.slider .slick-prev::before, .slider .slick-next::before {
+    color: #000000;
     font-size: 30px;
 }
 
-.slick-prev {
-    left: 25px !important;
+.slider .slick-prev {
+    left: 25px;
     z-index: 2;
    
 }
 
-.slick-next {
-    right: 25px !important;
+.slider .slick-next {
+    right: 25px;
     z-index: 2;
 }
 
