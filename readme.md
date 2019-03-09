@@ -15,8 +15,8 @@ Podrobné požiadavky na vypracovanie a odovzdanie zadania (priemerná úroveň 
 
 ### Podstránky
 
-**Úvodná stránka** - uvítacie slová a linky na ďalšie podstránky
-**Kto som?** - pár viet o mne, mojich záujmoch a charakteristikách
+**Úvodná stránka** - uvítacie slová a linky na ďalšie podstránky   
+**Kto som?** - pár viet o mne, mojich záujmoch a charakteristikách   
 **Čo robím?** - vymenovanie programovacích jazykov a technológií spolu s komentárom o tom koľko sa im venujem a ako ich ovládam    
 **Moje projekty** - vymenovanie projektov, ktoré som robila     
 **Projekt** - bližšie oboznámenie sa s projektmi, ich stav, dátum začatia, opis, použité technológie
