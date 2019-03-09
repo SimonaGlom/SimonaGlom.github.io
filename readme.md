@@ -19,7 +19,7 @@ Podrobné požiadavky na vypracovanie a odovzdanie zadania (priemerná úroveň 
 **Kto som?** - pár viet o mne, mojich záujmoch a charakteristikách
 **Čo robím?** - vymenovanie programovacích jazykov a technológií spolu s komentárom o tom koľko sa im venujem a ako ich ovládam    
 **Moje projekty** - vymenovanie projektov, ktoré som robila     
-**Projekt** - bližšie oboznámenie sa s projektmi, ich stav, dátum začiatia, opis, použité technológie
+**Projekt** - bližšie oboznámenie sa s projektmi, ich stav, dátum začatia, opis, použité technológie
 
 ### Rozloženie stránok (Layout-y)
 
@@ -65,7 +65,7 @@ Stránka obsahuje množtvo tagov a filtrov.
 
 ## Záver
 
-SIMfólio obsahuje aj mobilnú verziu a  vŠetky obrázky prešli kompresiou  pomocou nástroja (https://tinypng.com/). 
+SIMfólio obsahuje aj mobilnú verziu a  vŠetky obrázky prešli kompresiou  pomocou nástroja (https://tinypng.com/). Projekt je podporovaný prehliadačom Firefox.
 
 
 
