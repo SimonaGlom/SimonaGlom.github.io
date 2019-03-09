@@ -58,9 +58,9 @@ Stránka obsahuje množtvo tagov a filtrov.
 
 ### Plugin
 
-[**Slick**](http://kenwheeler.github.io/slick/) - vytvorenie slideshow na stránke detailu projektu
+[**Slick**](http://kenwheeler.github.io/slick/) - vytvorenie slideshow na stránke detailu projektu (nachádza sa v priečinku /slick-carousel/)
 
-[**Collapse**](https://getbootstrap.com/docs/4.1/components/collapse/) - pri mobilnej verzii sa skryje navigácia, plugin podporuje skrytie a ukázanie navigácie
+[**Collapse**](https://getbootstrap.com/docs/4.1/components/collapse/) - pri mobilnej verzii sa skryje navigácia, plugin podporuje skrytie a ukázanie navigácie (nachádza sa v priečinku /js/collapse.js)
 
 ## Záver
 
