@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Bakalárska práca
+title: Bachelor thesis
 url_path: bachelor-thesis
 image_path: /images/uxtweak.png
 carousel: 
