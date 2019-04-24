@@ -1,7 +1,7 @@
 ---
 layout: project
-title: UXTweak
-url_path: uxtweak
+title: Bakalárska práca
+url_path: bachelor-thesis
 image_path: /images/uxtweak.png
 carousel: 
    - /images/uxtweak1.png
