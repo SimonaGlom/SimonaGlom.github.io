@@ -4,8 +4,8 @@ title: Bachelor thesis
 url_path: bachelor-thesis
 image_path: /images/uxtweak.png
 carousel: 
-   - /images/uxtweak1.png
    - /images/uxtweak2.png
+   - /images/uxtweak1.png
 technologies: "Vue.js , CSS, HTML, D3.js"
 date: 11/2018
 state: VO VÝVOJI
